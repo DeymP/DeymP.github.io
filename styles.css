@@ -1,0 +1,21 @@
+﻿h1 {
+    color: darkred;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}
+
+ul, ol {
+    font-family: Georgia, serif;
+    font-size: 15px;
+}
+
+img {
+    border: 2px solid #333;
+}
